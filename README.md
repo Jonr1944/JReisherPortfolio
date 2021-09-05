@@ -5,7 +5,8 @@
 I am a second year Master's of Public Policy student at Carnegie Mellon University. I am very interested in international development and how data can help create common understanding of problems. 
 [My LinkdIN Page](https://www.linkedin.com/in/jonathan-reisher-11a74767)
 
-![ME](https://www.facebook.com/photo.php?fbid=10160135155875301&set=t.614945300&type=3)
+![Me](https://user-images.githubusercontent.com/89651677/132128299-876c49d6-d158-406c-b704-a31352409fd4.jpg)
+
 
 ####_What I hope to Learn_
 I hope to learn how to create effective data visulizations that will tell an effective story, accuratly depict a problem, and help convince people to create positive change. 
