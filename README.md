@@ -1,7 +1,7 @@
 # JReisherPortfolio
-##**Carnegie Mellon University**
+## **Carnegie Mellon University**
 
-####_About Me_
+#### _About Me_
 
 My name is Jon Reisher and I am a second year Master's of Public Policy student at Carnegie Mellon University. I am very interested in international development and how data can help create common understanding of problems. 
 
@@ -12,21 +12,21 @@ I was born in Germany but grew up in Western Washington State. I enjoy doing any
 ![Me](https://user-images.githubusercontent.com/89651677/132128299-876c49d6-d158-406c-b704-a31352409fd4.jpg)
 
 
-####_What I hope to Learn_
+#### _What I hope to Learn_
 
 I hope to learn how to create effective data visulizations that will tell an effective story, accuratly depict a problem, and help convince people to create positive change. 
 
 After I graduate, I hope to eventually work for an organization that does community oriented development overseas. International development is vital for the creating peaceful, stable nations and just societies. Too often nations intervene to "nation build" or dictate development projects in developing countries. This is not sustainable over the long term because this kind of development fails to take into account the actual needs of a community. I hope to help change this culture. 
 
-####_Portfolio URL_
+#### _Portfolio URL_
 [Click Here!](https://github.com/Jonr1944/JReisherPortfolio)
 
-####_Example Work_
+#### _Example Work_
 
-#####Visualization Critique #1
+##### Visualization Critique #1
 
-#####Data Visualization #1
+##### Data Visualization #1
 
-#####Critique by Design
+##### Critique by Design
 
-#####Final Project
+##### Final Project
