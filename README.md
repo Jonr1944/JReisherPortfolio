@@ -14,7 +14,7 @@ I was born in Germany but grew up in Western Washington State. I enjoy doing any
 
 #### _What I hope to Learn_
 
-I hope to learn how to create effective data visulizations that will tell an effective story, accurately depict a problem, and help convince people to create positive change. 
+I hope to learn how to create data visulizations that will tell an effective story, accurately depict a problem, and help convince people to create positive change. 
 
 After I graduate, I hope to eventually work for an organization that does community oriented development overseas. International development is vital for the creating peaceful, stable nations and just societies. Too often nations intervene to "nation build" or dictate development projects in developing countries. This is not sustainable over the long term because this kind of development fails to take into account the actual needs of a community. I hope to help change this culture. 
 
@@ -22,6 +22,10 @@ After I graduate, I hope to eventually work for an organization that does commun
 [Click Here!](https://github.com/Jonr1944/JReisherPortfolio)
 
 #### _Example Work_
+
+####King County Washington COVID19 Cases
+
+<div class="flourish-embed flourish-chart" data-src="visualisation/7205604"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
 
 ##### Visualization Critique #1
 
