@@ -25,7 +25,7 @@ After I graduate, I hope to eventually work for an organization that does commun
 
 ####King County Washington COVID19 Cases
 
-<div class="flourish-embed flourish-chart" data-src="visualisation/7205604"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
+[COVID19 Graph](https://public.flourish.studio/visualisation/7205604/)
 
 ##### Visualization Critique #1
 
