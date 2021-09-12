@@ -29,7 +29,7 @@ After I graduate, I hope to eventually work for an organization that does commun
 
 ##### Visualizing Government Debt
 
-[Debt to GDP Ratios](/dataviz2.md)
+[Debt to GDP Ratios](dataviz2)
 
 ##### Visualization Critique #1
 
