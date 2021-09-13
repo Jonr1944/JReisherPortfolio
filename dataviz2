@@ -1,4 +1,4 @@
-### Greatest National Debt to GDP Ratios in 2020
+### **Greatest National Debt to GDP Ratios in 2020**
 
 
 <iframe src="https://data.oecd.org/chart/6szl" width="860" height="645" style="border: 0" mozallowfullscreen="true" webkitallowfullscreen="true" allowfullscreen="true"><a href="https://data.oecd.org/chart/6szl" target="_blank">OECD Chart: General government debt, Total, % of GDP, Annual, 2020</a></iframe>
@@ -9,7 +9,7 @@ country is Greece followed by the US and Portugal. Additionally, the blue color 
 here so having each bar be the same color is ideal.
 
 
-### Debt to GDP Ratios by Country
+### **Debt to GDP Ratios by Country**
 
 <div class="flourish-embed flourish-chart" data-src="visualisation/7245474"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
 
@@ -21,7 +21,7 @@ to the current or last measured data point. The line places the last known data 
 red line is depicting so that the reader does not have to guess or extrapolate. This also keeps the graphic cleaner by not having axis labels for every graph.
 
 
-### Violin plot of Variance of the Debt to GDP Ratio by Country
+### **Violin plot of Variance of the Debt to GDP Ratio by Country**
 
 <div class="flourish-embed flourish-scatter" data-src="visualisation/7245588"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
 
