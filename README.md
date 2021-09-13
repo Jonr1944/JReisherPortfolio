@@ -25,7 +25,7 @@ After I graduate, I hope to eventually work for an organization that does commun
 
 #### King County Washington COVID19 Cases
 
-[COVID19 Graph](dataviz2)
+[COVID19 Graph](https://public.flourish.studio/visualisation/7205604/)
 
 ##### Visualizing Government Debt
 
