@@ -35,8 +35,4 @@ After I graduate, I hope to eventually work for an organization that does commun
 
 [Critique by Design](dataviz3.html)
 
-##### Data Visualization #1
-
-##### Critique by Design
-
 ##### Final Project
