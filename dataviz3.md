@@ -1,4 +1,4 @@
-# Critique and Re-Design of Forbes US Debt Levels Bar Chart
+# Critique and Re-Design of Forbes US Debt Levels Line Chart
 
 ### Origional Visualisation: Forbes 
 
