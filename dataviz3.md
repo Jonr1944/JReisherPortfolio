@@ -8,4 +8,16 @@
 
 [US Debt Levels 1940-2026](https://www.whitehouse.gov/omb/historical-tables/)
 
+### Wire Diagrams / Prototypes
+
+### Product Testing
+
+### Design
+
+[Palette Creation](https://coolors.co/c1cad6-d4adcf-856084-84e296-dde1e4)
+
+### Final Product
+
+<div class="flourish-embed flourish-chart" data-src="visualisation/7302346"><script src="https://public.flourish.studio/resources/embed.js"></script></div> 
+
 [Return Home](README.md)
