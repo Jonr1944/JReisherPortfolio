@@ -22,14 +22,21 @@ For my critique, I used Stephen Few's Data Visualisation Effectiveness Profile. 
 *Seven Criteria:*
 
   -Informative
+    
     -Usefulness
+    
     -Completeness
+    
     -Perceptibility
-    -Truthfulness
-    -Intuitivness
+   
+   -Truthfulness
+   
+   -Intuitivness
   
   -Emotive
+    
     -Aesthetics
+    
     -Engagment
 
 My biggest critique is that the emotive criteria of the original graph take away from almost all of the informative utility of the graph. In particular, the color scheme and line work are so bad I did not even want to engage with the chart at all. 
