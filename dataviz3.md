@@ -16,6 +16,8 @@
 
 ![image](https://github.com/Jonr1944/JReisherPortfolio/blob/main/Jreisher_Idea1.jpg)
 
+<img src="https://github.com/Jonr1944/JReisherPortfolio/blob/main/Jreisher_Idea1.jpg" class="img-responsive" alt=""> </div>
+
 ##### Idea #2: Remade Line Graph
 
 ![image](https://github.com/Jonr1944/JReisherPortfolio/blob/main/jreisher_idea2.jpg)
