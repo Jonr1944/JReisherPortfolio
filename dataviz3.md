@@ -18,17 +18,17 @@ This origionalline chart appeared in Forbes Magazine Online on December 29th, 20
 
 ##### Idea #1: Pie Charts over time
 
-![image](https://github.com/Jonr1944/JReisherPortfolio/blob/main/Jreisher_Idea1.jpg)
+![image1](https://github.com/Jonr1944/JReisherPortfolio/blob/main/Jreisher_Idea1.jpg)
 
 <img src="https://github.com/Jonr1944/JReisherPortfolio/blob/main/Jreisher_Idea1.jpg" class="img-responsive" alt=""> </div>
 
 ##### Idea #2: Remade Line Graph
 
-![image](https://github.com/Jonr1944/JReisherPortfolio/blob/main/jreisher_idea2.jpg)
+![image2](https://github.com/Jonr1944/JReisherPortfolio/blob/main/jreisher_idea2.jpg)
 
 ##### Idea #3: Bar Chart with 2020 Highlighted
 
-![image](https://github.com/Jonr1944/JReisherPortfolio/blob/main/jreisher_Idea3.jpg)
+![image3](https://github.com/Jonr1944/JReisherPortfolio/blob/main/jreisher_Idea3.jpg)
 
 ## Product Testing
 
