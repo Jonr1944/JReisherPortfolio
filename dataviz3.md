@@ -7,7 +7,9 @@ This original line chart appeared in Forbes Magazine Online on December 29th, 20
 
 [Origional Forbes Article](https://www.forbes.com/sites/billconerly/2021/12/29/federal-debt-a-danger-to-business-but-not-this-year/?sh=3d6bd56f1497)
 
-## Government Data : White House Budget Table 7.1
+## Government Data : White House Budget 
+
+The raw data I found on the White House Budget wepage under OMB and historical data tables (Table Table 7.1). I had to clean the data to be able to work with only the information of interest. Which in this case was the US Debt as a percent of GDP for 1950, 1960, 1970, 1980, 1990, 2000, 2010, and 2020. 
 
 [US Debt Levels 1940-2026](https://www.whitehouse.gov/omb/historical-tables/)
 
