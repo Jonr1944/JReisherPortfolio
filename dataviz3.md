@@ -2,6 +2,10 @@
 
 ## Origional Visualisation: Forbes Line Graph
 
+This origionalline chart appeared in Forbes Magazine Online on December 29th, 2020. Entitled "Federal Debt A Danger To Business, But Not This Year," the purpose of the article is to explain the role od the US debt on the ecomy and buisness. The last time the debt was over 100% was in WWII.
+
+<img src="https://github.com/Jonr1944/JReisherPortfolio/blob/main/Origional%20Chart%20(2)" class="img-responsive" alt=""> </div>
+
 ![image](https://github.com/Jonr1944/JReisherPortfolio/blob/main/Origional%20Chart%20(2).jpg)
 
 [Origional Forbes Article](https://www.forbes.com/sites/billconerly/2021/12/29/federal-debt-a-danger-to-business-but-not-this-year/?sh=3d6bd56f1497)
@@ -33,45 +37,56 @@ To compliment my critique of the Forbes line chart and aid in producing my rewor
 #### Person #1 (No Design Education)
 
 **1. Out of the below three visualization ideas, which one do you find most appealing? Which one are you immediately drawn to?**
+
 _I am immediately drawn to graph #3._  
 
 **2. For the visualization that you find most appealing please answer the following:**
 
 - Can you tell me what you think this is?
+
 _This graph depicts the percentage of federal debt compared to the GDP._
 
 - Can you describe to me what this is telling you?
+
 _The graph shows that the percentage of federal debt fluctuates, though it has been sharply increasing._
 
 - Is there anything you find surprising or confusing?
 _No._
 
 - Who do you think is the intended audience for this?
+
 _The intended audience is people who are interested in the economy._
 
 - Is there anything you would change or do differently?
+
 _I would add a dashed line at 100% to more clearly visualize the total percentage._
 
 #### Person #2 (In Design Class)
 
 *1. Out of the below three visualization ideas, which one do you find most appealing? Which one are you immediately drawn to?*
+
 _I was immediately drawn to #1 because it's the most aesthetically interesting one. But when I realised what the chart was about, I also realised that #1 was the hardest to conduct comparisons between the different decades. That's when I started paying more attention to #2 and #3. Between the two, #2 was more appealing._ 
 
 *2. For the visualization that you find most appealing please answer the following:*
 
-- Can you tell me what you think this is?
+- Can you tell me what you think this is? 
+
 _This is a line depicting federal debt as a percentage of US GDP._
 
 - Can you describe to me what this is telling you?
+
 _This line is telling me that federal debt as a percentage of US GDP has reached a level in 2020 that is unprecedented._ 
 
 - Is there anything you find surprising or confusing?
+
 _At first, I was confused as to why something could be over 100%, because we usually think about statistics or similar graphs being only up to 100%. It took me awhile to figure out that this was as a percentage of US GDP, so debt could go above current GDP. I was confused by the phrase" excluding intra-gov holdings" as I do not know what that means and there is no explanation for it._ 
 
 - Who do you think is the intended audience for this?
+
 _People who are interested in small government, or the average reader who likes to be informed._
 
 - Is there anything you would change or do differently?
+
 _I thought the line was interesting because the last time debt was so high was during / after WWII. I took me awhile to make that connection, so maybe the graph could highlight that through a subtitle or marking (if that is indeed the point being made). Otherwise, I like the simplicity of the graph._ 
 
 
@@ -81,6 +96,6 @@ _I thought the line was interesting because the last time debt was so high was d
 
 ### Final Product
 
-<div class="flourish-embed flourish-chart" data-src="visualisation/7302346"><script src="https://public.flourish.studio/resources/embed.js"></script></div> 
+<div class="flourish-embed flourish-chart" data-src="visualisation/7302346"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
 
 [Return Home](README.md)
