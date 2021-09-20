@@ -51,7 +51,7 @@ _Excerpt from my critique: My first thought is that this is an extremely ugly gr
 
 ##### Idea #2: Remade Line Graph
 
-<img src="jreisher_Idea2.jpg" width="700"/>
+<img src="jreisher_idea2.jpg" width="700"/>
 
 ##### Idea #3: Bar Chart with 2020 Highlighted
 
