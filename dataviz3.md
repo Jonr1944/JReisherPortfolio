@@ -3,7 +3,7 @@
 ## Origional Visualisation: Forbes Line Graph
 This original line chart appeared in Forbes Magazine Online on December 29th, 2020. Entitled "Federal Debt A Danger To Business, But Not This Year," the purpose of the article is to explain the role of the US debt on the economy and business. The last time the debt was over 100% was in WWII.
 
-![image](Origional Chart(2).jpg)
+<img src="Origional Chart(2).jpg" width="700"/>
 
 [Origional Forbes Article](https://www.forbes.com/sites/billconerly/2021/12/29/federal-debt-a-danger-to-business-but-not-this-year/?sh=3d6bd56f1497)
 
@@ -47,17 +47,15 @@ _Excerpt from my critique: My first thought is that this is an extremely ugly gr
 
 ##### Idea #1: Pie Charts over time
 
-![image1](https://github.com/Jonr1944/JReisherPortfolio/blob/main/Jreisher_Idea1.jpg)
-
-<img src="Jreisher_Idea1.jpg" width="450"/>
+<img src="Jreisher_Idea1.jpg" width="700"/>
 
 ##### Idea #2: Remade Line Graph
 
-![image2](https://github.com/Jonr1944/JReisherPortfolio/blob/main/jreisher_idea2.jpg)
+<img src="Jreisher_Idea2.jpg" width="700"/>
 
 ##### Idea #3: Bar Chart with 2020 Highlighted
 
-![image3](https://github.com/Jonr1944/JReisherPortfolio/blob/main/jreisher_Idea3.jpg)
+<img src="Jreisher_Idea3.jpg" width="700"/>
 
 ## Product Testing
 
