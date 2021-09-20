@@ -4,7 +4,7 @@
 
 ![image](https://github.com/Jonr1944/JReisherPortfolio/blob/main/Origional%20Chart%20(2).jpg)
 
-[Origional Bar Graph](https://www.forbes.com/sites/billconerly/2021/12/29/federal-debt-a-danger-to-business-but-not-this-year/?sh=3d6bd56f1497)
+[Origional Forbes Article](https://www.forbes.com/sites/billconerly/2021/12/29/federal-debt-a-danger-to-business-but-not-this-year/?sh=3d6bd56f1497)
 
 ## Government Data : White House Budget Table 7.1
 
