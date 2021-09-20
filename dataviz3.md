@@ -49,6 +49,8 @@ _Excerpt from my critique: My first thought is that this is an extremely ugly gr
 
 ![image1](https://github.com/Jonr1944/JReisherPortfolio/blob/main/Jreisher_Idea1.jpg)
 
+<img src="Jreisher_Idea1.jpg" width="450"/>
+
 ##### Idea #2: Remade Line Graph
 
 ![image2](https://github.com/Jonr1944/JReisherPortfolio/blob/main/jreisher_idea2.jpg)
