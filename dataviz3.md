@@ -3,7 +3,7 @@
 ## Origional Visualisation: Forbes Line Graph
 This original line chart appeared in Forbes Magazine Online on December 29th, 2020. Entitled "Federal Debt A Danger To Business, But Not This Year," the purpose of the article is to explain the role of the US debt on the economy and business. The last time the debt was over 100% was in WWII.
 
-![image](https://github.com/Jonr1944/JReisherPortfolio/blob/main/Origional%20Chart%20(2).jpg)
+![image](Jreisher_origional Chart(2).jpg)
 
 [Origional Forbes Article](https://www.forbes.com/sites/billconerly/2021/12/29/federal-debt-a-danger-to-business-but-not-this-year/?sh=3d6bd56f1497)
 
