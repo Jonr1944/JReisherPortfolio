@@ -13,7 +13,7 @@ The raw data I found on the White House Budget wepage under OMB and historical d
 
 The data I found was very similar to what Forbes present with the notable exception that the raw data I found through OMB had the percent debt to GDP ratio for 2020 as 128% while Forbes, also citing OMB, shows 100.2%. I assume that this descrepancy might be due to OMB still conducting audits or other bugetary functions. At the time of writing it was still 2020 so perhaps more analysis has since been conducted.
 
-[US Debt Levels 1940-2026](https://www.whitehouse.gov/omb/historical-tables/)
+[US Debt Levels 1940-2026 Raw Data](https://www.whitehouse.gov/omb/historical-tables/)
 
 ## CritiqueMethod: Data Visualisation Effectiveness Profile
 
