@@ -11,7 +11,30 @@ This original line chart appeared in Forbes Magazine Online on December 29th, 20
 
 The raw data I found on the White House Budget wepage under OMB and historical data tables (Table Table 7.1). I had to clean the data to be able to work with only the information of interest. Which in this case was the US Debt as a percent of GDP for 1950, 1960, 1970, 1980, 1990, 2000, 2010, and 2020. 
 
+The data I found was very similar to what Forbes present with the notable exception that the raw data I found through OMB had the percent debt to GDP ratio for 2020 as 128% while Forbes, also citing OMB, shows 100.2%. I assume that this descrepancy might be due to OMB still conducting audits or other bugetary functions. At the time of writing it was still 2020 so perhaps more analysis has since been conducted.
+
 [US Debt Levels 1940-2026](https://www.whitehouse.gov/omb/historical-tables/)
+
+## CritiqueMethod: Data Visualisation Effectiveness Profile
+
+For my critique, I used Stephen Few's Data Visualisation Effectiveness Profile. Which breaks down data visualizations into two general categories informative (produces understanding) and emotive (produces a useful emotional response).
+
+*Seven Criteria:*
+
+  -Informative
+    -Usefulness
+    -Completeness
+    -Perceptibility
+    -Truthfulness
+    -Intuitivness
+  
+  -Emotive
+    -Aesthetics
+    -Engagment
+
+My biggest critique is that the emotive criteria of the original graph take away from almost all of the informative utility of the graph. In particular, the color scheme and line work are so bad I did not even want to engage with the chart at all. 
+
+-Excerpt from my critique: My first thought is that this is an extremely ugly graph. It is not at all appealing to look at to the extent that I am not even looking at the information. The use of color leads a lot to be desired and makes me want to stop looking at the graph; specifically, the teal and bright red line clash in a headache-inducing way. Additionally, all the numbers, titles, and axis are in bold. The line work takes away any layering that could help the viewer focus on the essential parts of the graph, like the title. It is also not clear that the line on the graph is federal debt as a percent of GDP. The viewer must-read part of the article to be certain that is what the graph is depicting-
 
 ## Wire Diagrams / Prototypes
 
