@@ -46,6 +46,20 @@ __Project Goal:__ I hope this project inceases awarness around disinformation an
 
 ## *Sketches* 
 
+I included an in class wire diagraming exercise because it helped to organize the flow of my initial story. 
+
+<img src="wire1.jpg" width="700"/>
+
+<img src="wire2.jpg" width="700"/>
+
+The infographics, I hope, will make a point concerning the propblem and the importance of my topic with minamal text. The intent is to use as few words as possible in the story, so that the viewer can quickly consume the information. 
+
+<img src="Infographics.jpg" width="700"/>
+
+For graph 1, I am still considering if I should put some historial events related to COVID19. As an example, in September 2020 the offical Twitter account of the Hungarain Government was suspended. It might be useful to see that kind of event against COVID19 cases and deaths. Note: none of the graphs are accurate because I have not begun to conduct analysis on the data yet. The data is made up just ot illustrate my styalistic thoughts concerning the type of graphs I should use. 
+
+<img src="graphs.jpg" width="700"/>
+
 
 ## *The Data* 
 
