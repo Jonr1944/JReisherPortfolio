@@ -6,27 +6,39 @@ The intent is to demonsrate how media and social media can influence important h
 
 ##### _Outline:_
 
-Frame 1: Introduction - Introduce the topic with a few disinformation examples (political cartoons maybe?) 
+__Intended  Audience:__ 
+Primary - Anyone concerned about COVID19, disinformation, or the rise of authoritarianism. 
+Secondary - Policy makers
 
-Frame 2: The Problem- The next frame will highlight how Victor Orban has or could used the pandemic to consolidate authoritarian rule
+__Frame 1:__ Introduction - Introduce the topic with a few disinformation examples (political cartoons maybe?) 
+
+__Frame 2:__ The Problem- The next frame will highlight how Victor Orban has or could used the pandemic to consolidate authoritarian rule
 
 - Silence Opposition: Orban's administration created fake news that opposition parties did not want people to get vaccinated so people would die and it would make Orban look bad ahead of next year's election.
 - Limit Free Press: Create more standards concerning what can and cannot be published by state ran media (Soft Censursihip)
 - Limit freedom of assembly: In the wake of the 2022 election, Orban can use 'public health' mandates to limit opposition rallies or organizing activities
 
-Frame 3: Example COVID 19 Disinformation or Information- An interactive infographic would be useful to allow users the opportunity to explore types of missinformation or media related to COVID19. This would give the viewer a better understanding of the media environment.
+__Frame 3:__ Example COVID 19 Disinformation or Information- An interactive infographic would be useful to allow users the opportunity to explore types of missinformation or media related to COVID19. This would give the viewer a better understanding of the media environment.
 
-Frame 4: Graph #1- A simple line chart of COVID19 cases and deaths
+__Frame 4:__ Graph #1- A simple line chart of COVID19 cases and deaths
 
-Frame 5: Graph #2: A simple line chart of the four main vaccines available to Hungarians. This will demonstrate the viewer changes in innoculation over time. 
+__Frame 5:__ Graph #2: A simple line chart of the four main vaccines available to Hungarians. This will demonstrate the viewer changes in innoculation over time. 
          
          Graph #3: A bar chart of total vaccines adminstered by type to illustrate the viewer which vaccines have been more popular. 
          
 *Note:* I will need to explain the process of Hungarian vaccination since people can activly choose which vaccine to receive. 
 
-Frame 6: 
+__Frame 6:__ Graph #4: Illustration of vaccination rates by type and age. The intent with graph #4 is to show any trends in vaccination rates by age. Perhaps certain age categories prefer certain types of vaccines over others. The only limitaion is that the Hungarian Government rquires people under 65 with underlaying health conditions to receive the AstraZenca vaccine. 
 
+__Frame 7:__ The 'So What?' of Vaccine Disinformation- 
 
+__Frame 8:__ Call to Action- My call to action will be "Think before you share." The intent is to make people think before they share things on social media, which is particularly virulant vector for disinformation. I will also include links to resrources to help identify disinformation. 
+
+[NPR Fake News Tool Kit](https://www.npr.org/2019/10/29/774541010/fake-news-is-scary-heres-how-to-spot-misinformation)
+
+[ABC News Five Questions to Ask about Social Media Posts](https://abcnews.go.com/US/ways-spot-disinformation-social-media-feeds/story?id=67784438)
+
+[Where to Check Disinformation Trends: DoS Disinfo Cloud](https://disinfocloud.com/)
 
 ## *Sketches* 
 
@@ -40,3 +52,5 @@ I took two data sets from the ECDC website. The first data set is EU COVID19 dat
 [EU COVID19 Data](https://www.ecdc.europa.eu/en/publications-data/data-covid-19-vaccination-eu-eea)
 
 ## *Method and Medium* 
+
+[Home](JreisherREADME.md)
