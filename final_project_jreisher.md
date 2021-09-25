@@ -1,8 +1,7 @@
 ## *Project Outline*
 
 ##### _Summary:_ 
-This project will evaluate the Hungarian COVID19 disinformation as it relates to vaccine efficacy amongst the Spudnik V, SinoPharm, AstraZeneca, and Moderna/Pfizer vaccines. 
-The intent is to demonsrate how media and social media can influence important health, political, or social issues. 
+This project will evaluate COVID19 disinformation as it relates to vaccine efficacy amongst the Spudnik V, SinoPharm, AstraZeneca, and Moderna/Pfizer/Johnson&Johnson vaccine distribution in Hungary. The intent is to demonsrate how media and social media can influence important health, political, or social issues. 
 
 ##### _Outline:_
 
@@ -12,7 +11,7 @@ Secondary - Policy makers
 
 __Frame 1:__ Introduction - Introduce the topic with a few disinformation examples (political cartoons maybe?) 
 
-__Frame 2:__ The Problem- The next frame will highlight how Victor Orban has or could used the pandemic to consolidate authoritarian rule
+__Frame 2:__ The Problem- The next frame will highlight how Victor Orban has or could used the pandemic to consolidate authoritarian rule. I also need to explain "Why Hungary?" The answer is, while Hungary is an EU member it is one of the few EU contries allowing the SinoPharm, Spudnik v, AstraZenca, and Moderna/Pfizer/Johnson&Johnson vaccines. Additionally, Russia and China have significant econmic and political interests which makes Hungary a ideological 'battleground' between major powers. 
 
 - Silence Opposition: Orban's administration created fake news that opposition parties did not want people to get vaccinated so people would die and it would make Orban look bad ahead of next year's election.
 - Limit Free Press: Create more standards concerning what can and cannot be published by state ran media (Soft Censursihip)
@@ -40,6 +39,8 @@ __Frame 8:__ Call to Action- My call to action will be "Think before you share."
 
 [Where to Check Disinformation Trends: DoS Disinfo Cloud](https://disinfocloud.com/)
 
+__Project Goal:__ I hope this project inceases awarness around disinformation and how a public health emergency, or any other black swan event, might be used by authoritarian governments to crush political opposition. I would also like viewers to become more aware consumers of information. The things they share might lead to someone they know not getting vaccinated which increases everone's risk.
+
 ## *Sketches* 
 
 
@@ -53,4 +54,7 @@ I took two data sets from the ECDC website. The first data set is EU COVID19 dat
 
 ## *Method and Medium* 
 
+In terms of constructing my project I plan to use ShortHand. The main reason I plan to use ShortHand is tha I have built several presentations with Esri's Story Map and would like to learn a new platform. Currently, I plan to use Tableau to build the majority of the data visualisations (all four graphs). If needed I might use R to help with complex statistical analysis because I am comfortable with R. I think that I will need to make at least two infographics. One infographic for  Frame 2, describing the problem, and another one for Frame 7, the presentation "So What?" section. For constructing my infographics, I plan on using a website called [Canva](https://www.canva.com) which specializes  in infographic development.
+
+For now, I plan on using my final ShortHand product for the final, 60 second presentaion. The reason is that I think it will be a good test if my ShortHand site is easially consumable. Disinformation and vaccine efficay are very complex topics. So it is vital that my data visualizations and content are consumable. If a person can scroll through the site in 60 seconds and understand the site then they are more lilkley to go back and engage further after I have their interest. 
 [Home](JreisherREADME.md)
