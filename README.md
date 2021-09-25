@@ -36,3 +36,5 @@ After I graduate, I hope to eventually work for an organization that does commun
 [Critique by Design](dataviz3.html)
 
 ##### Final Project
+
+[Part 1](final_project_jreisher.html)
