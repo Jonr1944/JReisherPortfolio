@@ -22,14 +22,17 @@ __Frame 3:__ Example COVID 19 Disinformation or Information- An interactive info
 __Frame 4:__ Graph #1- A simple line chart of COVID19 cases and deaths
 
 __Frame 5:__ Graph #2: A simple line chart of the four main vaccines available to Hungarians. This will demonstrate the viewer changes in innoculation over time. 
-         
+
          Graph #3: A bar chart of total vaccines adminstered by type to illustrate the viewer which vaccines have been more popular. 
          
 *Note:* I will need to explain the process of Hungarian vaccination since people can activly choose which vaccine to receive. 
 
 __Frame 6:__ Graph #4: Illustration of vaccination rates by type and age. The intent with graph #4 is to show any trends in vaccination rates by age. Perhaps certain age categories prefer certain types of vaccines over others. The only limitaion is that the Hungarian Government rquires people under 65 with underlaying health conditions to receive the AstraZenca vaccine. 
 
-__Frame 7:__ The 'So What?' of Vaccine Disinformation- 
+__Frame 7:__ The 'So What?' of Vaccine Disinformation- The intent here is to outline the consequences of vaccine related disinformation in Hungary. The main consequences are: 
+1) Increased death due to vaccine hesitency
+2) Increased Authoritarinism, Victor Orban uses COVID19 disinformation to consolidate power 
+3) Increased National disunity
 
 __Frame 8:__ Call to Action- My call to action will be "Think before you share." The intent is to make people think before they share things on social media, which is particularly virulant vector for disinformation. I will also include links to resrources to help identify disinformation. 
 
@@ -56,6 +59,6 @@ I took two data sets from the ECDC website. The first data set is EU COVID19 dat
 
 In terms of constructing my project I plan to use ShortHand. The main reason I plan to use ShortHand is tha I have built several presentations with Esri's Story Map and would like to learn a new platform. Currently, I plan to use Tableau to build the majority of the data visualisations (all four graphs). If needed I might use R to help with complex statistical analysis because I am comfortable with R. I think that I will need to make at least two infographics. One infographic for  Frame 2, describing the problem, and another one for Frame 7, the presentation "So What?" section. For constructing my infographics, I plan on using a website called [Canva](https://www.canva.com) which specializes  in infographic development.
 
-For now, I plan on using my final ShortHand product for the final, 60 second presentaion. The reason is that I think it will be a good test if my ShortHand site is easially consumable. Disinformation and vaccine efficay are very complex topics. So it is vital that my data visualizations and content are consumable. If a person can scroll through the site in 60 seconds and understand the site then they are more lilkley to go back and engage further after I have their interest. 
+For now, I plan on using my final ShortHand product for the final, 60 second presentaion. The reason is that I think it will be a good test if my ShortHand site is easially consumable. Disinformation and vaccine efficay are very complex topics. So it is vital that my data visualizations and content are consumable. If a person can scroll through the site in 60 seconds and understand the information, then they are more lilkley to  reengage with content after I have their interest. 
 
 [Home](JreisherREADME.md)
