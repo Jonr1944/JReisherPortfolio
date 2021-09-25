@@ -55,6 +55,8 @@ I took two data sets from the ECDC website. The first data set is EU COVID19 dat
 
 [EU COVID19 Data](https://www.ecdc.europa.eu/en/publications-data/data-covid-19-vaccination-eu-eea)
 
+Facebook has over 95% usage rate, amoungst Social Media Users in Hungary. The [Offical Facebook Page](https://www.facebook.com/kormanyzat) of the Hungarian Government is a great source of offical information that is being put out by the Administration of Victor Orban. This page can be used to understand what official COVID19 information is being distributed. 
+
 ## *Method and Medium* 
 
 In terms of constructing my project I plan to use ShortHand. The main reason I plan to use ShortHand is tha I have built several presentations with Esri's Story Map and would like to learn a new platform. Currently, I plan to use Tableau to build the majority of the data visualisations (all four graphs). If needed I might use R to help with complex statistical analysis because I am comfortable with R. I think that I will need to make at least two infographics. One infographic for  Frame 2, describing the problem, and another one for Frame 7, the presentation "So What?" section. For constructing my infographics, I plan on using a website called [Canva](https://www.canva.com) which specializes  in infographic development.
