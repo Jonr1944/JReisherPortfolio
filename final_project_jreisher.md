@@ -1,12 +1,14 @@
 ## *Project Outline*
 
 ##### _Summary:_ 
-This project will evaluate COVID19 disinformation as it relates to vaccine efficacy amongst the Spudnik V, SinoPharm, AstraZeneca, and Moderna/Pfizer/Johnson&Johnson vaccine distribution in Hungary. The intent is to demonsrate how media and social media can influence important health, political, or social issues. 
+This project will evaluate COVID19 disinformation as it relates to vaccine efficacy amongst the Spudnik V, SinoPharm, AstraZeneca, and Moderna/Pfizer/Johnson&Johnson vaccine distribution in Hungary. The intent is to demonsrate how disinformation can influence important health, political, or social issues. 
 
 ##### _Outline:_
 
 __Intended  Audience:__ 
-Primary - Anyone concerned about COVID19, disinformation, or the rise of authoritarianism. 
+
+Primary - Anyone concerned about COVID19, disinformation, or the rise of authoritarianism
+
 Secondary - Policy makers
 
 __Frame 1:__ Introduction - Introduce the topic with a few disinformation examples (political cartoons maybe?) 
