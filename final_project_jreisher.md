@@ -24,8 +24,7 @@ __Frame 3:__ Example COVID 19 Disinformation or Information- An interactive info
 __Frame 4:__ Graph #1- A simple line chart of COVID19 cases and deaths
 
 __Frame 5:__ Graph #2: A simple line chart of the four main vaccines available to Hungarians. This will demonstrate the viewer changes in innoculation over time. 
-
-         Graph #3: A bar chart of total vaccines adminstered by type to illustrate the viewer which vaccines have been more popular. 
+             Graph #3: A bar chart of total vaccines adminstered by type to illustrate the viewer which vaccines have been more popular. 
          
 *Note:* I will need to explain the process of Hungarian vaccination since people can activly choose which vaccine to receive. 
 
