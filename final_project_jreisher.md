@@ -71,7 +71,11 @@ I took two data sets from the ECDC website. The first data set is EU COVID19 dat
 
 [EU COVID19 Data](https://www.ecdc.europa.eu/en/publications-data/data-covid-19-vaccination-eu-eea)
 
-Facebook has over 95% usage rate, amoungst Social Media Users in Hungary. The [Offical Facebook Page](https://www.facebook.com/kormanyzat) of the Hungarian Government is a great source of offical information that is being put out by the Administration of Victor Orban. This page can be used to understand what official COVID19 information is being distributed. 
+A copy of the cleaned data can be found at 
+
+Facebook has over 95% usage rate, amoungst Social Media Users in Hungary. The [Offical Facebook Page](https://www.facebook.com/kormanyzat) of the Hungarian Government is a great source of offical information that is being put out by the Administration of Victor Orban. This page can be used to understand what official COVID19 information is being distributed. Other sources for Hungarian News examples is offical state media [Hungary Today](https://hungarytoday.hu/) and [Daily News Hungary](https://dailynewshungary.com/).
+
+While Facebook is preferable for understanding the internal Hungarian media environment, Twitter is ideal for understanding how Hungarian media interacts globally. Twitter offers four Application Programming Interfaces (API) to search Twitter content. The [Twitter APIs](https://developer.twitter.com/en/docs) that would be most useful is the main Twitter API which enables a user to conduct analyitics on Twitter content and the Twitter Ads API which helps users find information on Twitter Advertising. 
 
 ## *Method and Medium* 
 
