@@ -69,9 +69,9 @@ The primary source of Hungarian COVID19 related data is the European Centre for 
 
 I took two data sets from the ECDC website. The first data set is EU COVID19 data that shows the number of COVID19 cases and related deaths. I plan on using this data to show 'how bad' COVID19 was and is in Hungary. The second data set I pulled is the number of COVID vaccinations in Hungary by vaccination type, age, and date. I hope to use this data to illustrate which vaccines are more popular. Because each vaccine is from a different country (Russia, China, Great Britain, and the US, respectively), this might indicate what information or disinformation resonates with Hungarians. The tricky part here is relating vaccination to specific information campaigns. 
 
-[EU COVID19 Data](https://www.ecdc.europa.eu/en/publications-data/data-covid-19-vaccination-eu-eea)
+[Raw EU COVID19 Data](https://www.ecdc.europa.eu/en/publications-data/data-covid-19-vaccination-eu-eea)
 
-A copy of the cleaned data can be found at [Hungarain COVID19 Data](https://github.com/Jonr1944/JReisherPortfolio/blob/main/HU_COVID%20Cases_%20JAN2020_MAY2020.xlsx) and [Hungarian Vaccination Data](https://github.com/Jonr1944/JReisherPortfolio/blob/main/HU_COVID_Vaccination%20Data_cleaned.xlsx)
+A copy of the cleaned data can be found at [Hungarain COVID19 Data](https://github.com/Jonr1944/JReisherPortfolio/blob/main/HU_COVID%20Cases_%20JAN2020_MAY2020.xlsx) and [Hungarian Vaccination Data](https://github.com/Jonr1944/JReisherPortfolio/blob/main/HU_COVID_Vaccination%20Data_cleaned.xlsx).
 
 Facebook has over 95% usage rate amongst Social Media Users in Hungary. The [Offical Facebook Page](https://www.facebook.com/kormanyzat) of the Hungarian Government is an excellent source of official information that the Administration of Victor Orban is putting out. This page can be used to understand what official COVID19 information is being distributed. Other sources for Hungarian News examples are official state media [Hungary Today](https://hungarytoday.hu/) and [Daily News Hungary](https://dailynewshungary.com/).
 
