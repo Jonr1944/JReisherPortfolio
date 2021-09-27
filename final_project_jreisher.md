@@ -71,7 +71,7 @@ I took two data sets from the ECDC website. The first data set is EU COVID19 dat
 
 [EU COVID19 Data](https://www.ecdc.europa.eu/en/publications-data/data-covid-19-vaccination-eu-eea)
 
-A copy of the cleaned data can be found at [Hungarain COVID19 Data](HU_COVID Cases_JAN2020_MAY2020.md) and [Hungarian Vaccination Data](HU_COVID_Vaccination Data_cleaned.xlsx)
+A copy of the cleaned data can be found at [Hungarain COVID19 Data](https://github.com/Jonr1944/JReisherPortfolio/blob/main/HU_COVID%20Cases_%20JAN2020_MAY2020.xlsx) and [Hungarian Vaccination Data](HU_COVID_Vaccination Data_cleaned.xlsx)
 
 Facebook has over 95% usage rate, amoungst Social Media Users in Hungary. The [Offical Facebook Page](https://www.facebook.com/kormanyzat) of the Hungarian Government is a great source of offical information that is being put out by the Administration of Victor Orban. This page can be used to understand what official COVID19 information is being distributed. Other sources for Hungarian News examples is offical state media [Hungary Today](https://hungarytoday.hu/) and [Daily News Hungary](https://dailynewshungary.com/).
 
