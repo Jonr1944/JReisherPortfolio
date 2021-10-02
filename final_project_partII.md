@@ -18,10 +18,12 @@
 
 <img src="Mood_Board2.jpg" width="700"/>
 
-<img src="Mood_Board3" width="700"/>
+<img src="Mood_Board3.jpg" width="700"/>
 
 
 ## Personas 
+
+![Tim](https://github.com/Jonr1944/JReisherPortfolio/blob/main/Stacey_Persona.pdf)
 
 <img src="Tim_persona.pdf" width="700"/>
 
