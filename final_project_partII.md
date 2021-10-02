@@ -14,14 +14,18 @@
 
 ## Mood Board
 
-![Mood Board 1](Mood_Board1)
+<img src="Mood_Board1.jpg" width="700"/>
 
-![Mood Board 2](Mood_Board2)
+<img src="Mood_Board2.jpg" width="700"/>
 
-![Mood Board 3](Mood_Board3)
+<img src="Mood_Board3" width="700"/>
+
 
 ## Personas 
 
-![Tim](Tim_persona)
+<img src="Tim_persona.pdf" width="700"/>
 
-![Stacey](Stacey_Persona)
+<img src="Stacey_Persona.pdf" width="700"/>
+
+
+[Home](README.md)
