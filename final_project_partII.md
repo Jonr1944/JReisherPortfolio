@@ -23,11 +23,9 @@
 
 ## Personas 
 
-![Tim](https://github.com/Jonr1944/JReisherPortfolio/blob/main/Stacey_Persona.pdf)
+<img src="Tim.jpg" width="700"/>
 
-<img src="Tim_persona.pdf" width="700"/>
-
-<img src="Stacey_Persona.pdf" width="700"/>
+<img src="Stacey.jpg" width="700"/>
 
 
 [Home](README.md)
