@@ -23,9 +23,9 @@
 
 ## Personas 
 
-<img src="Tim.jpg" width="700"/>
+<img src="Tim.jpg" width="900"/>
 
-<img src="Stacey.jpg" width="700"/>
+<img src="Stacey.jpg" width="900"/>
 
 
 [Home](README.md)
