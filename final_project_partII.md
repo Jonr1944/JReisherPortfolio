@@ -54,7 +54,7 @@ Frame 8:
 
 <img src="Slide8.JPG" width="700"/>
 
-Frame 9:
+Frame 9: I relialized after my user research, that I need to revamp my graph on hashtags to articulate which ones are problimatic rather than the language. This willbetter illustrate my point that almost all popular hash tags are either anti-vaccine or nutural (could be used for or against vaccines).  Additionally, I should make a graph of how many people could have received a vaccine, by type, and compare that to those that did. This helps establish a stronger link of legitimacy. If people feel strongly that the Chinese Vaccine is best, for example, the data should show that all Sinopham vaccines were used. 
 
 <img src="Slide9.JPG" width="700"/>
 
@@ -66,7 +66,7 @@ Frame 11:
 
 <img src="Slide11.JPG" width="700"/>
 
-Frame 12: I relialized after my user research, that I need to revamp my graph on hashtags to articulate which ones are problimatic rather than the language. This willbetter illustrate my point that almost all popular hash tags are either anti-vaccine or nutural (could be used for or against vaccines).  Additionally, I should make a graph of how many people could have received a vaccine, by type, and compare that to those that did. This helps establish a stronger link of legitimacy. If people feel strongly that the Chinese Vaccine is best, for example, the data should show that all Sinopham vaccines were used. 
+Frame 12: 
 
 <img src="Slide12.JPG" width="700"/>
 
