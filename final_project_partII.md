@@ -96,6 +96,7 @@ Info Graphic 3 – the text in each box is difficult to read because it’s smal
           2. How did Orban use the pandemic to consolidate power? Was he the one behind the disinformation?
           3.what is Hungary’s COVID deaths compared to other countries?
           4. Are there similar levels of disinformation in other countries. 
+          
 6.__Which of the three mood boards do you prefer? (1, 2, or 3)__	 1
 
 
