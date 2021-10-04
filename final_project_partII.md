@@ -54,6 +54,7 @@ Below are the slides that I sent my user research participants. I would have pre
 I wanted to create a way to find the best color pallet for my story. I searched on Google Images for disinformation related infographics and found that there were really three main colors pallets that was used:  blue / white, purple, and black/red color pallet. I am going to use the blue / white color pallet because it resignated the most during my user research and it also mirrors the colors used by Twitter. 
 
 
+<img src="Mood_Board1.jpg" width="700"/>
 
 <img src="Mood_Board2.jpg" width="700"/>
 
