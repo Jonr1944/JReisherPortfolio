@@ -75,8 +75,11 @@ Frame 12:
 Question & Response Person 1 (Female Student):
 
 1. __What is the purpose of the visualizations?__	 The purpose of the visualisations are to draw attention to how Victor Orban has used the pandemic to solidify power and/or spread misinformation about COVID vaccines. [honestly, I found it a little hard to follow the storyboard without much background information on Hungary.]
-2. __What is missing in the story?__ 	 I think what is missing is the overall context of why this story is important, and also the level of COVID disinformation in Hungary. The graphics on hashtags seemed interesting but I struggled to understand them. 
-3. __What works well?__	 There was variation in the graphics which made the storyboard interesting (tables, bar graphs). Disinformation is also a “hot” topic that would normally spark interest. 
+
+2. __What is missing in the story?__ I think what is missing is the overall context of why this story is important, and also the level of COVID disinformation in Hungary. The graphics on hashtags seemed interesting but I struggled to understand them. 
+
+3. __What works well?__ There was variation in the graphics which made the storyboard interesting (tables, bar graphs). Disinformation is also a “hot” topic that would normally spark interest. 
+
 4. __Are their confusing graphs or graphics?__ If so which ones and which part of the visualization is confusing?	 
 
 Graph 1 – The y-axis label is hard to read. The x-axis is also hard to read in the “Year Week” format. It’s hard to know what is the 16th week in 2020, maybe months might be easier, even though I know the weekly visualization is also more accurate. 
@@ -91,15 +94,17 @@ Graph 5 – I’m not sure what “Hu and Serbian” means or are? Without conte
 
 Chart 1  - I realise now that Hu and Serbian mean Hungarian and Serbian. I’m still abit confused as to whether these are Hungarian and Serbian twitter accounts, if so, I don’t know why the Hungarian hashtags are a higher number than Hungarian & Serbian hashtags – I assume the former is a subset of the latter?
 Info Graphic 3 – the text in each box is difficult to read because it’s small. I do like the call to action statement “Think before you click”. It’s catchy. 
+
 5. __What questions do you have after reviewing the visualizations?__ 	
           1. what other real-life consequences are linked with disinformation (other like the Pfizer doses)?
           2. How did Orban use the pandemic to consolidate power? Was he the one behind the disinformation?
           3.what is Hungary’s COVID deaths compared to other countries?
           4. Are there similar levels of disinformation in other countries. 
+          
 6.__Which of the three mood boards do you prefer? (1, 2, or 3)__	 1
 
 
-Question & Response Person 1 (Female Elementary School Teacher):
+_Question & Response Person 1 (Female Elementary School Teacher):_
 
 1. __What is the purpose of the visualizations?__ The visualizations tell about covid disinformation in Hungary.
 
