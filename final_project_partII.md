@@ -100,13 +100,18 @@ Info Graphic 3 – the text in each box is difficult to read because it’s smal
 
 
 Question & Response Person 1 (Female Elementary School Teacher):
+
 1. __What is the purpose of the visualizations?__ The visualizations tell about covid disinformation in Hungary.
+
 2. __What is missing in the story?__  I am satisfied with the amount of information.
 
 3.__What works well?__ The content is interesting and presented well.
+
 4. __Are there confusing graphs or graphics?__ If so which ones and which part of the visualization is confusing?
 Graph 5 could be updated to show which hashtags are potentially problematic. 
+
 5. __What questions do you have after reviewing the visualizations?__ No questions
+
 6. __Which of the three mood boards do you prefer? (1, 2, or 3)__ I prefer mood board #1. It is visually appealing
 
 
