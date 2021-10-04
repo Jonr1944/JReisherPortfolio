@@ -90,6 +90,7 @@ Graph 5 – I’m not sure what “Hu and Serbian” means or are? Without conte
 
 Chart 1  - I realise now that Hu and Serbian mean Hungarian and Serbian. I’m still abit confused as to whether these are Hungarian and Serbian twitter accounts, if so, I don’t know why the Hungarian hashtags are a higher number than Hungarian & Serbian hashtags – I assume the former is a subset of the latter?
 Info Graphic 3 – the text in each box is difficult to read because it’s small. I do like the call to action statement “Think before you click”. It’s catchy. 
+
 5. __What questions do you have after reviewing the visualizations?__ 	
           1. what other real-life consequences are linked with disinformation (other like the Pfizer doses)?
           2. How did Orban use the pandemic to consolidate power? Was he the one behind the disinformation?
