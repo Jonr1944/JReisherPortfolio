@@ -119,6 +119,54 @@ Graph 5 could be updated to show which hashtags are potentially problematic.
 
 6. __Which of the three mood boards do you prefer? (1, 2, or 3)__ I prefer mood board #1. It is visually appealing
 
+_Question & Response Person 1 (Male Student)_
+
+1. __What is the purpose of the visualizations?__
+The purpose is to show how Orban has benefitted from misinformation
+on social media, which is rampant and easy to spread. Misinformation
+can cost lives, so it’s important to think about what you share.
+2. __What is missing in the story?__ I think that there’s a lot of vaccine-content but the explanation of how
+it’s related is absent. Before showing vaccination statistics, at least in
+the final presentation, I’d make sure you include an infographic talking
+about vaccines meaning institutional legitimacy and why the Sinopharm
+and Sputnik vaccines matter in Hungary. Vaccines, Hungary, and
+misinformation can certainly be all put in the same presentation
+cohesively, but getting it there may be difficult.
+3. __What works well?__ Most of the graphics are really strong and highlight the necessary
+information well. The root purpose of the assignment, which is
+obviously telling the story with data, is done really well. I can get
+exactly what you’re trying to say.
+4. __Are their confusing graphs orgraphics? If so which ones and which part of the visualization is confusing?__
+Graph 3 comes across as a bit confusing to me. The multitude of colors
+is something I feel Chris will want us to avoid. Since there’s a focus on
+the institutional legitimacy, maybe a line graph that compares the
+vaccines from the 4 major regions here (US, EU, Russia, China) over
+time would be a potential fix?
+Graph 4 may be redundant- I’m not entirely sure what story it’s trying to
+tell by separating doses. I know you technically can get first dose Pfizer
+2nd dose Moderna, for example, but the data doesn’t seem to reveal
+anything here. You obviously know your story better than I would, but
+from the storyboard that’s the impression I get.
+Graph 5- I like the alternative a lot! I would type out “Language of
+Tweet” or something like that to minimize confusion, but the separation
++ colors of it work really well. The original works perfectly fine as well,
+if you want bar chart consistency.
+5. __What questions do you have after reviewing the visualizations?__
+I personally have none, because I got to talk to you about your goals
+with the presentation. I would just caution you to make sure you make
+this cohesive. I really like the messaging and know this will probably
+end up being a great presentation, but I’m worried that there’s a lot of
+topics to put in 60 seconds.
+6. __Which of the three mood boards do you prefer? (1, 2, or 3)__
+1. This one comes across as the “friendliest”, while the other two
+seem deceptive. I know that feeling could be the purpose of the
+presentation, but think of how you want the reader to feel as they
+leave. #1 gives more of a “friendly reminder to be smart online”
+while #3 gives a “you should feel scared about using the
+internet”. Totally valid presentation to give for #3, but I’m not
+sure it fits your presentation style. #2 is fine, but I personally
+feel #1 fits your speaking style more
+
 
 ## Mood Board
 
