@@ -78,17 +78,11 @@ Question & Response Person 1 (Female Student):
 2. __What is missing in the story?__ I think what is missing is the overall context of why this story is important, and also the level of COVID disinformation in Hungary. The graphics on hashtags seemed interesting but I struggled to understand them. 
 3. __What works well?__ There was variation in the graphics which made the storyboard interesting (tables, bar graphs). Disinformation is also a “hot” topic that would normally spark interest. 
 4. __Are their confusing graphs or graphics?__ If so which ones and which part of the visualization is confusing?	 
-
 Graph 1 – The y-axis label is hard to read. The x-axis is also hard to read in the “Year Week” format. It’s hard to know what is the 16th week in 2020, maybe months might be easier, even though I know the weekly visualization is also more accurate. 
-
 Graph 2 – I’m not entirely clear how the 3 tweets show how Victor Orban has used the COVID pandemic to solidify his rule. Not sure if perhaps more exposition is needed?
-
 Graph 3 – I don’t really know what the main point is. I know it shows me the different type of vaccines given out in each week, but not certain what trend I’m looking for. I also don’t know what “Year Week ISO” means, 
-
 Graph 4 – similar to 3, I know what this chart is saying but not sure what the main point is. Maybe it’s useful to put the main point in the subtitle, unless the audience is meant to interpret this on their own? Having gone to the end of the storyboard, I now realise that the disinformation led to a drop in second doses for Pfizer. Maybe changing the sequence would have made this chart clearer?
-
 Graph 5 – I’m not sure what “Hu and Serbian” means or are? Without context, it’s hard to figure this graph out. I suppose that my attention is meant to be drawn to “Hu” which is a different color. 
-
 Chart 1  - I realise now that Hu and Serbian mean Hungarian and Serbian. I’m still abit confused as to whether these are Hungarian and Serbian twitter accounts, if so, I don’t know why the Hungarian hashtags are a higher number than Hungarian & Serbian hashtags – I assume the former is a subset of the latter?
 Info Graphic 3 – the text in each box is difficult to read because it’s small. I do like the call to action statement “Think before you click”. It’s catchy. 
 5. __What questions do you have after reviewing the visualizations?__ 	
