@@ -24,27 +24,27 @@ Below are the slides that I sent my user research participants. I would have pre
 
 <img src="Slide1.JPG" width="700"/>
 
-<img src="Slide2.jpg" width="700"/>
+<img src="Slide2.JPG" width="700"/>
 
-<img src="Slide3.jpg" width="700"/>
+<img src="Slide3.JPG" width="700"/>
 
-<img src="Slide4.jpg" width="700"/>
+<img src="Slide4.JPG" width="700"/>
 
-<img src="Slide5.jpg" width="700"/>
+<img src="Slide5.JPG" width="700"/>
 
-<img src="Slide6.jpg" width="700"/>
+<img src="Slide6.JPG" width="700"/>
 
-<img src="Slide7.jpg" width="700"/>
+<img src="Slide7.JPG" width="700"/>
 
-<img src="Slide8.jpg" width="700"/>
+<img src="Slide8.JPG" width="700"/>
 
-<img src="Slide9.jpg" width="700"/>
+<img src="Slide9.JPG" width="700"/>
 
-<img src="Slide10.jpg" width="700"/>
+<img src="Slide10.JPG" width="700"/>
 
-<img src="Slide11.jpg" width="700"/>
+<img src="Slide11.JPG" width="700"/>
 
-<img src="Slide12.jpg" width="700"/>
+<img src="Slide12.JPG" width="700"/>
 
 ## User Research
 
