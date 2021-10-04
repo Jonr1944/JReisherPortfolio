@@ -125,6 +125,7 @@ Graph 4 may be redundant- I’m not entirely sure what story it’s trying to te
 
 Graph 5- I like the alternative a lot! I would type out “Language of Tweet” or something like that to minimize confusion, but the separation
 of colors of it work really well. The original works perfectly fine as well, if you want bar chart consistency.
+
 5. __What questions do you have after reviewing the visualizations?__
 I personally have none, because I got to talk to you about your goals with the presentation. I would just caution you to make sure you make this cohesive. I really like the messaging and know this will probably end up being a great presentation, but I’m worried that there’s a lot of topics to put in 60 seconds.
 6. __Which of the three mood boards do you prefer? (1, 2, or 3)__ 1. This one comes across as the “friendliest”, while the other two seem deceptive. I know that feeling could be the purpose of the presentation, but think of how you want the reader to feel as they leave. #1 gives more of a “friendly reminder to be smart online” while #3 gives a “you should feel scared about using the internet”. Totally valid presentation to give for #3, but I’m not sure it fits your presentation style. #2 is fine, but I personally feel #1 fits your speaking style more
