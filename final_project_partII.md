@@ -18,7 +18,7 @@ Twitter data is difficult to work with for a vizulization project. However, it i
 
 ## Storyboard
 
-[Short Hand Diagram](https://shorthand.com/organisations/JSrgFWI7zn/stories/acQGpXcsWp)
+[Short Hand Diagram](https://preview.shorthand.com/xMs1tWmyeM72R0Af)
 
 Below are the slides that I sent my user research participants. I would have preferred to send them a draft of the short hand website, given my Tableau rendering issues I had to improvise with a PDF. This was a tad problematic, in that I did not have the coorisponding text to go along with the charts. However, the user research yeilded some very good feedback on how I can make the story more compelling. 
 
