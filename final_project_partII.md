@@ -139,7 +139,7 @@ anything here. You obviously know your story better than I would, but
 from the storyboard that’s the impression I get.
 Graph 5- I like the alternative a lot! I would type out “Language of
 Tweet” or something like that to minimize confusion, but the separation
-+ colors of it work really well. The original works perfectly fine as well,
+of colors of it work really well. The original works perfectly fine as well,
 if you want bar chart consistency.
 5. __What questions do you have after reviewing the visualizations?__
 I personally have none, because I got to talk to you about your goals
