@@ -1,26 +1,26 @@
 ## Work Flow Summary
 
-*Issues:* Overall, I spent far too much time building my Twitter API and trying to get my Tableau charts to render on the webpage. I am not very good at coding in HTML or Java so Shorthand does not render Tableau Online charts. I will probably be forced to rebuild my charts on Florish or make them into PDFs.
+*Issues:* Overall, I spent far too much time building my Twitter API and trying to get my Tableau charts to render on the webpage. I am not very good at coding in HTML or Java, so Shorthand does not render Tableau Online charts. I will probably be forced to rebuild my charts on Flourish or make them into PDFs.
 
-*Opportunties:* My user research results really helped me dial in where I can be more persuasive and how to rearrange my charts to build a more persusaive story. Its relativily easy to build an individual chart. But its far more difficult to create something that lands with the audience. 
+*Opportunities:* My user research results really helped me dial in where I can be more persuasive and how to rearrange my charts to build a more persuasive story. It's relatively easy to build an individual chart. But its far more difficult to create something that lands with the audience. 
 
 #### Key Findings
 
-Through my research I found that 1.8 million Hungarians chose to get the Spudnik V vaccine out of a possible 2 million. This is significant because that indicates that out of Hungary's 9.7 million people around 18.5% views Russia as the most legitate or trustworthy in terms of vaccine production. 
+I found that 1.8 million Hungarians chose to get the Spudnik V vaccine out of a possible 2 million through my research. This is significant because that indicates that out of Hungary's 9.7 million people, around 18.5% view Russia as the most legitimate or trustworthy vaccine production. 
 
-Another key finding is that the majority of the COVD19 related hashtags are either nutural (could be used for information or disinformation) or negative (are used for disinformation). There are no onjectively positive hashtags trending in Hungary last week. In fact, one of the hashtags is the name of a Far Right Opposition leader.
+Another key finding is that the majority of the COVD19 related hashtags are either natural (could be used for information or disinformation) or negative (are used for disinformation). There were no objectively positive hashtags trending in Hungary last week. In fact, one of the hashtags is the name of a Far-Right Opposition leader.
 
-Finally, there is a disparity in second dose vaccination for those who received the Pfizer/BioNTech vaccine. Over 500,000 people failed to get their second does, far greater than another group that recieved a Russian, Chinese, or British vaccines. 
+Finally, there is a disparity in second dose vaccination for those who received the Pfizer/BioNTech vaccine. Over 500,000 people failed to get their second dose, far greater than another group that received Russian, Chinese, or British vaccines. 
 
 #### Insights
 
-Twitter data is difficult to work with for a vizulization project. However, it is impossible to work with Facebook data at the present. This is because Facebook privacy laws do not allow researchers or third parties to analize content. This is unfortunate because an estimated 95% of Hungarians have Facebook and only 2% have a Twitter page. Twitter, however, is a good indication of what Hungarian parities or organizations are trying to signal to people, organizations, and countries outside of Hungary with higher Twitter presences. 
+Twitter data is challenging to work with for a visualization project. However, it is impossible to work with Facebook data at present. This is because Facebook privacy laws do not allow researchers or third parties to analyze content. This is unfortunate because an estimated 95% of Hungarians have Facebook and only 2% have a Twitter page. Twitter, however, is a good indication of what Hungarian parities or organizations are trying to signal to people, organizations, and countries outside of Hungary with higher Twitter presences. 
 
 ## Storyboard
 
 [Short Hand Diagram](https://preview.shorthand.com/xMs1tWmyeM72R0Af)
 
-Below are the slides that I sent my user research participants. I would have preferred to send them a draft of the short hand website, given my Tableau rendering issues I had to improvise with a PDF. This was a tad problematic, in that I did not have the coorisponding text to go along with the charts. However, the user research yeilded some very good feedback on how I can make the story more compelling. 
+Below are the slides that I sent my user research participants. I would have preferred to send them a draft of the short hand website; given my Tableau rendering issues, I had to improvise with a PDF. This was a tad problematic in that I did not have the corresponding text to go along with the charts. However, the user research yielded some excellent feedback on how I could make the story more compelling. 
 
 Frame 1:
 
@@ -54,7 +54,8 @@ Frame 8:
 
 <img src="Slide8.JPG" width="700"/>
 
-Frame 9: I relialized after my user research, that I need to revamp my graph on hashtags to articulate which ones are problimatic rather than the language. This willbetter illustrate my point that almost all popular hash tags are either anti-vaccine or nutural (could be used for or against vaccines).  Additionally, I should make a graph of how many people could have received a vaccine, by type, and compare that to those that did. This helps establish a stronger link of legitimacy. If people feel strongly that the Chinese Vaccine is best, for example, the data should show that all Sinopham vaccines were used. 
+Frame 9: 
+I realized after my user research that I need to revamp my graph on hashtags to articulate which ones are problematic rather than the language. This will better illustrate my point that almost all popular hashtags are either anti-vaccine or natural (could be used for or against vaccines).  Additionally, I should graph how many people could have received a vaccine by type and compare that to those that did. This helps establish a stronger link of legitimacy. If people feel strongly that the Chinese Vaccine is best, the data should show that all Sinopham vaccines were used. 
 
 <img src="Slide9.JPG" width="700"/>
 
@@ -135,7 +136,7 @@ I personally have none, because I got to talk to you about your goals with the p
 
 ## Mood Board
 
-I wanted to create a way to find the best color pallet for my story. I searched on Google Images for disinformation related infographics and found that there were really three main colors pallets that was used:  blue / white, purple, and black/red color pallet. I am going to use the blue / white color pallet because it resignated the most during my user research and it also mirrors the colors used by Twitter. 
+I wanted to create a way to find the best color pallet for my story. I searched on Google Images for disinformation-related infographics and found that there were really three primary colors pallets used: blue/white, purple, and black/red color pallet. I will use the blue / white color pallet because it resonated the most during my user research and it also mirrors the colors used by Twitter. 
 
 
 <img src="Mood_Board1.jpg" width="700"/>
@@ -147,7 +148,7 @@ I wanted to create a way to find the best color pallet for my story. I searched 
 
 ## Personas 
 
-I created two user personas. One of a middle aged man with not a lot of formal education but confident in his abilities and place in life. Too often people are over confident in their ability to discern what is fake and what is not. I want to appeal to those kinds of people by demonstrating that there are people who desire to mislead on social media. The second persona is more the young, white collar worker who is immersed in technology and may not fully understand the effects it is having on society. A secondary goal of the project is to raise awarness that the media we share has the ability to create real issues for people. 
+I created two user personas. One of a middle-aged man with little formal education but confident in his abilities and place in life. Too often, people are overconfident in their ability to discern what is fake and what is not. I want to appeal to those kinds of people by demonstrating that people desire to create misleading posts on social media. The second persona is more the young, white-collar worker immersed in technology and may not fully understand its effects on society. A secondary goal of the project is to raise awareness that the media we share can create real issues for people. 
 
 <img src="Tim.jpg" width="900"/>
 
