@@ -1,3 +1,5 @@
+# Final Project Part 1
+
 ## *Project Outline*
 
 ##### _Summary:_ 
@@ -83,3 +85,7 @@ In terms of constructing my project, I plan to use ShortHand. I plan to use Shor
 For now, I plan on using my final ShortHand product for the final 60-second presentation. The reason is that I think it will be a good test if my ShortHand site is easily consumable. Disinformation and vaccine efficacy are very complex topics. So my data visualizations and content must be consumable. If a person can scroll through the site in 60 seconds and understand the information, they are more likely to reengage with content after I have their interest. 
 
 [Home](JreisherREADME.md)
+
+[Final Project Part II](final_project_partII.md)
+
+[Final Project Part III](final_project_partIII.md)
