@@ -34,7 +34,7 @@ Francesco Guarasico. “EU Warns Hungary against Use of Russia’s COVID-19 Vacc
 
 “Hungary: Government Uses Vaccine Campaign to Lash out at Political Opponents.” Deutsche Welle. Accessed October 6, 2021. https://www.dw.com/en/hungary-government-uses-vaccine-campaign-to-lash-out-at-political-opponents/a-57137738.
 
-Jeff Orlowski. “The Social Dilemma.” Netflix, accessed January 6, 2021, https://www.netflix.com/title/812542. 
+Jeff Orlowski. “The Social Dilemma.” Netflix, accessed January 6, 2021, https://www.netflix.com/title/812542. 
 
 Maggie Gile. “Hungarian Foreign Minister Dismisses ‘Global Fake News’ Reports on LGBT Content Ban.” MSN News. Accessed October 6, 2021. https://www.newsweek.com/hungarian-foreign-minister-dismisses-global-fake-news-reports-lgbt-content-ban-1603027.
 
