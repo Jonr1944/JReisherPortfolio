@@ -4,7 +4,15 @@
 
 #### Intended Audience 
 
+<img src="Tim.jpg" width="900"/>
+
+<img src="Stacey.jpg" width="900"/>
+
 #### Summary 
+
+During the final phase of production, I spent a lot of time making and remaking elements of the story. The additional peer and family reviews of the project really helped me refine the story that I was trying to tell about Twitter disinformation and the effect of it on the Hungarian democray. I still feel like I am trying to cover a lot of topics at once. However, I think people are starting to understand that disinformation is problem. But they do not fully understand how corrosive disinfromation is to democracy because democracy requires consensus. If everyone's facts are different, there is not way you can agree on anything. 
+
+There were several things that I found helped me create the final product. The mood board really helped me figureout how to use color and design to link sections of the wire diagram in a way that would not distract the attention of the reader. Furthermore, without the color pallet that I found on coolers, I would have wasted a ton of time trying to match colors between elements and charts. Another aspect that worked well is the creation of infographics on canva and infogram. I have a lot to say in my story, creating an effective picture of a complex idea is difficult but it pays off if it can quickly articulate the idea. I hope that my readers agree that I have articulated my ideas effectivly and without confusion. 
 
 #### Final Data Visulization Link
 
