@@ -51,9 +51,9 @@ __Project Goal:__ I hope this project increases awareness around disinformation 
 
 I included an in class wire diagraming exercise because it helped to organize the flow of my initial story. 
 
-<img src="wire1.jpg" width="700"/>
+<img src="FinalProject/wire1.jpg" width="700"/>
 
-<img src="wire2.jpg" width="700"/>
+<img src="FinalProject/wire2.jpg" width="700"/>
 
 The infographics, I hope, will make a point concerning the problem and the importance of my topic with minimal text. The intent is to use as few words as possible in the story so that the viewer can quickly consume the information. 
 
