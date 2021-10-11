@@ -159,6 +159,6 @@ I created two user personas. One of a middle-aged man with little formal educati
 
 [Home](README.md)
 
-[Final Project Part I](final_project_jreisher.md)
+[Final Project Part I](final_project_partI.md)
 
 [Final Project Part III](final_project_partIII.md)
