@@ -30,19 +30,19 @@ Frame 1:
 
 Frame 2:
 
-<img src="Slide2.JPG" width="700"/>
+<img src="FinalProject/Slide2.JPG" width="700"/>
 
 Frame 3:
 
-<img src="Slide3.JPG" width="700"/>
+<img src="FinalProject/Slide3.JPG" width="700"/>
 
 Frame 4:
 
-<img src="Slide4.JPG" width="700"/>
+<img src="FinalProject/Slide4.JPG" width="700"/>
 
 Frame 5:
 
-<img src="Slide5.JPG" width="700"/>
+<img src="FinalProject/Slide5.JPG" width="700"/>
 
 Frame 6:
 
@@ -50,28 +50,28 @@ Frame 6:
 
 Frame 7:
 
-<img src="Slide7.JPG" width="700"/>
+<img src="FinalProject/Slide7.JPG" width="700"/>
 
 Frame 8:
 
-<img src="Slide8.JPG" width="700"/>
+<img src="FinalProject/Slide8.JPG" width="700"/>
 
 Frame 9: 
 I realized after my user research that I need to revamp my graph on hashtags to articulate which ones are problematic rather than the language. This will better illustrate my point that almost all popular hashtags are either anti-vaccine or natural (could be used for or against vaccines).  Additionally, I should graph how many people could have received a vaccine by type and compare that to those that did. This helps establish a stronger link of legitimacy. If people feel strongly that the Chinese Vaccine is best, the data should show that all Sinopham vaccines were used. 
 
-<img src="Slide9.JPG" width="700"/>
+<img src="FinalProject/Slide9.JPG" width="700"/>
 
 Frame 10:
 
-<img src="Slide10.JPG" width="700"/>
+<img src="FinalProject/Slide10.JPG" width="700"/>
 
 Frame 11:
 
-<img src="Slide11.JPG" width="700"/>
+<img src="FinalProject/Slide11.JPG" width="700"/>
 
 Frame 12: 
 
-<img src="Slide12.JPG" width="700"/>
+<img src="FinalProject/Slide12.JPG" width="700"/>
 
 ## User Research
 
@@ -141,20 +141,20 @@ I personally have none, because I got to talk to you about your goals with the p
 I wanted to create a way to find the best color pallet for my story. I searched on Google Images for disinformation-related infographics and found that there were really three primary colors pallets used: blue/white, purple, and black/red color pallet. I will use the blue / white color pallet because it resonated the most during my user research and it also mirrors the colors used by Twitter. 
 
 
-<img src="Mood_Board1.jpg" width="700"/>
+<img src="FinalProject/Mood_Board1.jpg" width="700"/>
 
-<img src="Mood_Board2.jpg" width="700"/>
+<img src="FinalProject/Mood_Board2.jpg" width="700"/>
 
-<img src="Mood_Board3.jpg" width="700"/>
+<img src="FinalProject/Mood_Board3.jpg" width="700"/>
 
 
 ## Personas 
 
 I created two user personas. One of a middle-aged man with little formal education but confident in his abilities and place in life. Too often, people are overconfident in their ability to discern what is fake and what is not. I want to appeal to those kinds of people by demonstrating that people desire to create misleading posts on social media. The second persona is more the young, white-collar worker immersed in technology and may not fully understand its effects on society. A secondary goal of the project is to raise awareness that the media we share can create real issues for people. 
 
-<img src="Tim.jpg" width="900"/>
+<img src="FinalProject/Tim.jpg" width="900"/>
 
-<img src="Stacey.jpg" width="900"/>
+<img src="FinalProject/Stacey.jpg" width="900"/>
 
 
 [Home](README.md)
