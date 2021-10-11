@@ -6,11 +6,11 @@
 
  In [Part II](final_project_partII.md) I went over who Tim and Stacey are as personas. I wanted to try and think about who is the 'typical' consumer of social media. There are several generations now that have digital literacy because they know how the internet works and are capable of using a variety of devices like laptops, smartphones, or tablets. However, the baby boomer / Gen X / Elder Millenial user has a particular issue where, in their youth, they researched in a library. In a library, there is a sort of 'constitution' in terms of facts because all of the content in a library is reviewed and screened by professionals. Most libraries do not allow an encyclopedia set that only has false facts. When these mature internet users are online, they have issues decoupling from the idea that what they are finding could be fake or altered for a political purpose. I tried to personify this kind of user with Tim. With Tim, it is easy for him to believe falsehoods at face value. This corrodes useful political discourse because Tim eventually believes he is the only one with the 'real' facts.
 
-<img src="Tim.jpg" width="900"/>
+<img src="FinalProject/Tim.jpg" width="900"/>
 
 The second kind of consumer of social media grew up with technology and the internet. Younger Millenials and GenZers have a much more sophisticated relationship with social media. But they are also far more consumed by the things they see online. They can get easily trapped in a self-affirming silo of facts that never allow them to engage with opposing or different ideas. Like Tim, Stacey is susceptible to being affected by disinformation. But for Stacey, it isn't about the facts as much as the narratives altering her behavior. It could potentially lead her to support causes that are unhelpful to a vibrant democracy. 
 
-<img src="Stacey.jpg" width="900"/>
+<img src="FinalProject/Stacey.jpg" width="900"/>
 
 #### Summary 
 
