@@ -37,7 +37,7 @@ After I graduate, I hope to eventually work for an organization that does commun
 
 ##### Final Project
 
-[Part I](final_project_jreisher.html)
+[Part I](final_project_partI.md)
 
 [Part II](final_project_partII.md)
 
