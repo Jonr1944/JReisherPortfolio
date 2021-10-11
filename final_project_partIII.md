@@ -44,7 +44,7 @@ Shaun Walker. “Hungary Passes Law That Will Let Orbán Rule by Decree | Hungar
 
 [Home](README.md)
 
-[Final Project Part I](final_project_partI)
+[Final Project Part I](final_project_partI.md)
 
 [Final Project Part II](final_project_partII.md)
 
