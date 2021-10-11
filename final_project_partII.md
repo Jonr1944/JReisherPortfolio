@@ -46,7 +46,7 @@ Frame 5:
 
 Frame 6:
 
-<img src="Slide6.JPG" width="700"/>
+<img src="FinalProject/Slide6.JPG" width="700"/>
 
 Frame 7:
 
