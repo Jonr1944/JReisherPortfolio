@@ -20,7 +20,7 @@ There were several things that I found helped me create the final product. The m
 
 #### Final Data Visualization Link
 
-[Final Data Viz](https://carnegiemellon.shorthandstories.com/covid19-disinformation-in-hungary/index.html)
+[Final Data Viz](Russia's Sputnik V vaccine is a clear winner in terms of second dose and overall efficacy)
 
 ## References 
 
