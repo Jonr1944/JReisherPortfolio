@@ -26,7 +26,7 @@ Below are the slides that I sent my user research participants. I would have pre
 
 Frame 1:
 
-<img src="Slide1.JPG" width="700"/>
+<img src="FinalProject/Slide1.JPG" width="700"/>
 
 Frame 2:
 
