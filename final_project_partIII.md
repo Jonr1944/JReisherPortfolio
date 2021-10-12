@@ -40,7 +40,7 @@ Maggie Gile. “Hungarian Foreign Minister Dismisses ‘Global Fake News’ Repo
 
 Pictures from NounProject.com
 
-Shaun Walker. “Hungary Passes Law That Will Let Orbán Rule by Decree | Hungary" The Guardian. Accessed October 6, 2021. https://www.theguardian.com/world/2020/mar/30/hungary-jail-for-coronavirus-misinformation-viktor-orban.
+Shaun Walker. “Hungary Passes Law That Will Let Orbán Rule by Decree Hungary" The Guardian. Accessed October 6, 2021. https://www.theguardian.com/world/2020/mar/30/hungary-jail-for-coronavirus-misinformation-viktor-orban.
 
 [Home](README.md)
 
