@@ -34,4 +34,4 @@ The violin plot is the shaded orange color behind the data points. The intent of
 higher the frequency. Some countries have almost a straight line, indicating more variance than countries with a violin shape like Chilies. Countries like Chilies indicate that their debt to GDP ratios is more stable
 in that there is not a ton of fluctuation. I tried to use the subtitle and the footer to help the viewer easily understand the information. Particularly if they are not familiar with violin plots.
 
-[Return Home](README.md)
+[Home](README.md)
